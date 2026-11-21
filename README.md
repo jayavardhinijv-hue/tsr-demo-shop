@@ -1,2 +1,1 @@
-# API-Automation-Framework
-REST API Automation Framework using Java, Rest Assured, TestNG, Maven and Extent Reports
+Demo shop board used as the data source for theAI-baawe test management &TSR Generatoe
